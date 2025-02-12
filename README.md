@@ -1,4 +1,4 @@
-**Paper**: Low-rank Angular Prior Guided Multi-diffusion Model for Few-shot Low-dose CT Reconstruction
+**Paper**: Low-rank Angular Prior Guided Multi-diffusion Model for Few-shot Low-dose CT Reconstruction         
 IEEE Transactions on Computational Imaging, Vol. 10, pp. 1763-1774, 2024.     
 **Authors**: Wenhao Zhang, Bin Huang, Shuyue Chen, Xiaoling Xu, Weiwen Wu, Qiegen Liu      
 https://ieeexplore.ieee.org/abstract/document/10776993     
